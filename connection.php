@@ -2,10 +2,10 @@
 
 <?php
 
-$servername = "localhost";
-$username = "root"; 
-$password = ""; 
-$dbname = "dental_clinic"; 
+$servername = "sql208.infinityfree.com";
+$username = "if0_35769164"; 
+$password = "leinyajjayniel"; 
+$dbname = "if0_35769164_dental_clinic"; 
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
